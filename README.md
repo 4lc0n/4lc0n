@@ -1,6 +1,6 @@
--  Hi, I’m @4lc0n
--  I’m interested in microcontrollers, some random general programming stuff, linux
--  I’m a student in the fields of electronics
+Hello i'm Jürgen!
+
+I’m interested in microcontrollers, some random general programming stuff, linux, etc. Also i’m a student in the fields of electronics and enjoy getting lost in side projects all the time. 
 
 
 <!---
