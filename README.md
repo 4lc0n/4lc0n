@@ -15,9 +15,10 @@ I’m interested in microcontrollers, some random general programming stuff, lin
 
 
 ### Contact
-<i class="fab fa-linkedin"></i> [linkedin]
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([Linkedin])
+&nbsp;
 
 
 
 
-[linkedin]: linkedin.com/in/jürgen-markl-089730209  "LinkedIn Profil"
+[Linkedin]: linkedin.com/in/jürgen-markl-089730209  "LinkedIn Profil"
