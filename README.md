@@ -10,7 +10,7 @@ My interests are
 * getting lost in Side Projects
 
 
-I’m interested in microcontrollers, some random general programming stuff, linux, etc. Also i’m a student in the fields of electronics and enjoy getting lost in side projects all the time. 
+
 
 
 
